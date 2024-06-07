@@ -1,9 +1,17 @@
 {
   "files": {
-    "main.js": "/Advanced-Mobile-Landing-Megogo/static/js/main.31d6cfe0.js",
-    "index.html": "/Advanced-Mobile-Landing-Megogo/index.html"
+    "main.css": "/Advanced-Mobile-Landing-Megogo/static/css/main.0ffce217.css",
+    "main.js": "/Advanced-Mobile-Landing-Megogo/static/js/main.f6ab5f77.js",
+    "static/media/iphone.png": "/Advanced-Mobile-Landing-Megogo/static/media/iphone.d12c7322505f91002106.png",
+    "static/media/section4.png": "/Advanced-Mobile-Landing-Megogo/static/media/section4.a994ff8530fe801836b7.png",
+    "static/media/section2.jpg": "/Advanced-Mobile-Landing-Megogo/static/media/section2.c996de400f87f2283d46.jpg",
+    "static/media/cards.png": "/Advanced-Mobile-Landing-Megogo/static/media/cards.166e523336e25a22f4ff.png",
+    "index.html": "/Advanced-Mobile-Landing-Megogo/index.html",
+    "main.0ffce217.css.map": "/Advanced-Mobile-Landing-Megogo/static/css/main.0ffce217.css.map",
+    "main.f6ab5f77.js.map": "/Advanced-Mobile-Landing-Megogo/static/js/main.f6ab5f77.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.0ffce217.css",
+    "static/js/main.f6ab5f77.js"
   ]
 }
