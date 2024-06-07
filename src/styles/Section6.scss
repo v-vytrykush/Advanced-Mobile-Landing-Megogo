@@ -1,0 +1,72 @@
+.section6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+
+    .content {
+        max-width: 600px;
+
+        h1 {
+            font-size: 24px;
+            line-height: 28px;
+            font-weight: 700;
+            font-family: 'SF UI Display', sans-serif;
+            margin-bottom: 30px;
+        }
+
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-bottom: 20px;
+
+            .feature {
+                width: 48%; /* Дві колонки по ширині */
+                margin-bottom: 20px;
+
+                h2 {
+                    font-size: 18px;
+                    margin-bottom: 5px;
+                    font-weight: 700;
+                }
+
+                p {
+                    font-size: 14px;
+                   
+                }
+            }
+        }
+
+        .subscribe-button {
+            background-color: #00c1a1;
+            color: white;
+            border: none;
+            width: 100%;
+            max-width: 200px;
+            height: 55px;
+            letter-spacing: 1.3px;
+            
+            text-transform: uppercase;
+            font-size: 13px;
+            cursor: pointer;
+            border-radius: 5px;
+
+            &:hover {
+                background-color: #0f7066;
+            }
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .section6 {
+        display: none;
+    }
+}

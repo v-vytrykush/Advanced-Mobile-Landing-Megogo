@@ -1,0 +1,16 @@
+.section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .section1 {
+        display: none;
+    }
+}
